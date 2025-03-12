@@ -165,6 +165,7 @@ This approach showed the practical implementation of theorical concepts of autom
 ## References
 [1] “Finite Automata Part One.” Accessed: Mar. 12, 2025. [Online]. 
     Available: https://web.stanford.edu/class/archive/cs/cs103/cs103.1142/lectures/12/Small12.pdf
+    
 ‌
 [2] J. E. Hopcroft, R. Motwani, and J. D. Ullman, "Introduction to Automata Theory, 
     Languages, and Computation," 3rd ed. Boston, MA: Addison-Wesley, 2006.
