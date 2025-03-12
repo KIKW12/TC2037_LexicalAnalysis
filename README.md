@@ -41,6 +41,7 @@ State Transition Table
 | Starting State | Input | Final State |
 | -------------- | ------| ----------- |
 | a              | 0     | a           |
+| a              | 2     | a           |
 | a              | 1     | b           |
 | b              | 0     | c           |
 | b              | 1     | b           |
