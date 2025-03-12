@@ -34,7 +34,7 @@ So based on what we previously said, our dual representation for this Lexical An
 ## Design
 Based on the theory we analysed previously, we will build 2 different approaches fulfiling the Kleene theorem: 
 ### 1. Deterministif Finite Automaton (DFA)
-(Pasar AUTOMATON DE CUADERNO A IMAGEN)
+![DFA](DFA.png)
  
 State Transition Table
 
