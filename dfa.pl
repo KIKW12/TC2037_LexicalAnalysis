@@ -13,7 +13,6 @@ accepting_state(e).
 
 % transition function for the DFA
 transition(a, 0, a).  % stay in initial state on 0
-transition(a, 2, a).  % stay in initial state on 0
 transition(a, 1, b).  % see 1, move to state b
 
 transition(b, 0, c).  % first 0 of potential "002"
